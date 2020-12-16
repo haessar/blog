@@ -16,7 +16,7 @@ There are a plenty of tutorials and guides on gathering data from APIs in Python
 # Setting up
 
 We are going to be using the [TfL Unified API](https://api-portal.tfl.gov.uk/) as a running example. To gain access to this API you will need to register for an application key, which consists of an `app_id` and `app_key`. For this TfL API, response types 
-are documented using OpenAPI 3 specifications - a relatively rare but helpful fact which in the contet of this guide we ignore[^openapi].
+are documented using OpenAPI 3 specifications - a relatively rare but helpful fact which in the context of this guide we ignore[^openapi].
 
 # URL structures with `yarl`
 
